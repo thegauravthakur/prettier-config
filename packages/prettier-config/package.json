@@ -1,0 +1,12 @@
+{
+  "name": "@gauravcodes/prettier-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://gauravthakur.in",
+  "author": "Gaurav Thakur",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "prettier": "*"
+  }
+}

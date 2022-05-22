@@ -1,0 +1,11 @@
+{
+  "name": "prettier-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gaurav Thakur <v-gaurav.thakur@thetradedesk.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@gauravcodes/prettier-config": "^1.0.0",
+    "prettier": "^2.6.2"
+  }
+}
